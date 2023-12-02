@@ -1,0 +1,5 @@
+# Ignore go.work file
+go.work
+
+# Ignore macOS .DS_Store files
+.DS_Store

@@ -1,0 +1,56 @@
+[
+  {
+    "highscores": [
+      {
+        "id": "8049b439-fd6e-41d2-a89d-321a043b495c",
+        "name": "Star",
+        "score": 7
+      },
+      {
+        "id": "18c7b7df-73a2-4e5f-a524-28bb294ecfb6",
+        "name": "Gino",
+        "score": 25
+      },
+      {
+        "id": "bb84d697-5e48-4ea7-ab6a-049c36447c1a",
+        "name": "alvzz",
+        "score": 14
+      },
+      {
+        "id": "4b6e330d-aacb-4a39-a39a-77a1cc197269",
+        "name": "Anonymus",
+        "score": 34
+      },
+      {
+        "id": "12491ea2-dad8-40e1-a58e-f39ea4a2162a",
+        "name": "Alva",
+        "score": 23
+      },
+      {
+        "id": "ea763cff-d799-4a47-a05a-d0e7929dcf42",
+        "name": "G",
+        "score": 8
+      },
+      {
+        "id": "34ce86b2-5c2e-4c6e-8ee3-a81e74b6d007",
+        "name": "a",
+        "score": 24
+      },
+      {
+        "id": "a8a17b86-f79c-475f-bd56-0b8c1745b7ae",
+        "name": "Fratter",
+        "score": 7
+      },
+      {
+        "id": "04137e7f-941b-4357-a6d1-a5dfc05b2701",
+        "name": "Anonymus",
+        "score": 6
+      },
+      {
+        "id": "4ede3abb-d426-4dd5-8c59-9adb2d074d4e",
+        "name": "Anonymus",
+        "score": 10
+      }
+    ]
+  }
+]
