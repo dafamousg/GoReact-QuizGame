@@ -1,0 +1,39 @@
+.quiz-button {
+  width: 35%; /* Set a percentage width */
+  max-width: 250px; /* Set a maximum width if needed */
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 1rem 0.5rem; /* Adjust padding to center text vertically */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+}
+
+.quiz-button:hover {
+  background-color: #45a049;
+}
+
+/* Add shadow border for 1 second on correct answer */
+.quiz-button.correct {
+  border: 2px solid #4caf50; /* Green border for correct answer */
+  transition: border 1s ease;
+}
+
+/* Add shadow border for 1 second on incorrect answer */
+.quiz-button.incorrect {
+  background-color: #e74c3c;
+}
+
+p.question {
+  font-size: 20px; /* Slightly larger font size for the question */
+  color: #2c3e50; /* A dark, readable color for the text */
+  margin-bottom: 20px; /* Increase margin for separation from answer buttons */
+  text-align: center; /* Center-align the text */
+  padding: 10px; /* Add padding for better spacing */
+}

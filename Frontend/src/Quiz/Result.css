@@ -1,0 +1,66 @@
+.high-score-display {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .high-score-list {
+    max-width: 300px;
+    margin: 0 auto;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    padding: 16px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .high-score-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    font-size: 16px;
+  }
+  
+  .name {
+    font-weight: bold;
+  }
+  
+  .score {
+    color: #4caf50; /* Green color for the score */
+  }
+
+  /* YourComponent.css */
+
+.try-again-button {
+  background-color: #3498db; /* Blue color */
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.try-again-button:hover {
+  background-color: #2980b9; /* Darker blue on hover */
+}
+
+.save-score-button {
+  margin-left: 1rem;
+  background-color: #2ecc71; /* Green color */
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.save-score-button:hover {
+  background-color: #27ae60; /* Darker green on hover */
+}
+
+.save-score-button[disabled] {
+  background-color: #bdc3c7; /* Gray color for disabled state */
+  cursor: not-allowed;
+}
